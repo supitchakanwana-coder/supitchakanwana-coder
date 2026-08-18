@@ -1,21 +1,19 @@
 สวัสดีครับ สุพิชญ์ชา กันวะนา Supitcha Kanwana
-เป็ฯนักศึกษาชั้นปีที่ 4 สาขานวัตกรรมธุรกิจดิจิทัล กำลังมองหาตำแหน่ง QA / Software Tester Intern
+QA / Software Tester Intern
 
- จุดมุ่งหมายและการเรียนรู้ปัจจุบัน (Current Focus)
- -- เรียนรู้ Nodejs, Jason, API, TypeScript 
- -- ฝึกฝนการทำงานร่วมกันผ่าน Git/GitHub ในระบบทีม
- -- พัฒนาโปรเจกต์ Go2themoon
+เกี่ยวกับฉัน
+เปลี่ยนเป็นภาษาอังกฤษให้หน่อย นักศึกษาชั้นปีที่ 4 สาขานวัตกรรมธุรกิจดิจิทัล มีเป้าหมายเติบโตในสายงาน Software Testing / QA มีความสนใจในการวิเคราะห์ปัญหาและมองระบบในมุมมองของผู้ใช้งานเพื่อค้นหาและป้องกันข้อผิดพลาด ปัจจุบันกำลังพัฒนาทักษะด้าน Manual Testing, API Testing และ SQL  อย่างต่อเนื่อง มุ่งมั่นพัฒนาตนเองเพื่อประสานงานร่วมกับทีมพัฒนาซอฟต์แวร์ได้อย่างมีประสิทธิภาพ มีความประสงค์เข้าฝึกงานสหกิจศึกษาในตำแหน่ง QA / Software Tester Intern ตั้งแต่วันที่ 9 พฤศจิกายน 2569 ถึง 26 กุมภาพันธ์ 2570 พื่อเก็บเกี่ยวประสบการณ์การทำงานจริง
 
-ทักษะและความเชี่ยวชาญ (Technical Skills)
--- Languages: JavaScript, HTML/CSS
--- Frameworks & Libraries: React, Tailwind CSS
--- Tools & Platforms: Git, GitHub, VS Code, Figma
--- Databases: MySQL 
+Current Focus & Learning
+ปัจจุบันกำลังเน้นพัฒนาทักษะและความเข้าใจในหัวข้อต่อไปนี้
+🟢 Backend & API: Node.js, JSON, API Testing
+🔵 Programming: TypeScript, JavaScript, tailwind
+🚀 Active Project: กำลังพัฒนาโปรเจกต์ Go2themoon
 
-โปรเจกต์ที่โดดเด่น (Featured Projects)
--- กำลังพัฒนา
-
-ช่องทางการติดต่อ (Contact Information)
-Email: supitchakanwana@gmail.com
-LinkedIn: linkedin.com/in/username
-Portfolio Website: [URL]
+Technical Skills
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Pypthon (Basic)`  |
+| **Testing & Core Concepts** | `Manual Testing` `Test Case Design` `API Testing` `JSON (Basic)` |
+| **Databases** | `MySQL` |
+| **Tools & Platforms** | `Git` `GitHub` `VS Code` `Figma` |
