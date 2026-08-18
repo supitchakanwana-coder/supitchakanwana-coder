@@ -1,4 +1,4 @@
-# สวัสดีครับ สุพิชญ์ชา กันวะนา Supitcha Kanwana
+# สวัสดีครับผม สุพิชญ์ชา กันวะนา Supitcha Kanwana
 
 ###  QA / Software Tester Intern 
 
