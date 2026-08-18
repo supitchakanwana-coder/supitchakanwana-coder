@@ -8,7 +8,7 @@
 
 ปัจจุบันกำลังเน้นพัฒนาทักษะและความเข้าใจในหัวข้อต่อไปนี้:
 * 🟢 **Backend & API:** Node.js, JSON, API Testing
-* 🔵 **Programming:** TypeScript, JavaScript
+* 🔵 **Programming:** TypeScript, CSS3, Tailwind
 * 🚀 **Active Project:** กำลังพัฒนาโปรเจกต์ **Go2themoon**
 
 ## Technical Skills
