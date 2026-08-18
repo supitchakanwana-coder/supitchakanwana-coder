@@ -1,4 +1,4 @@
-สวัสดีครับ สุพิชญ์ชา กันวะนา Supitcha Kanwana
+## สวัสดีครับ สุพิชญ์ชา กันวะนา Supitcha Kanwana
 QA / Software Tester Intern
 
 ## เกี่ยวกับฉัน
@@ -10,7 +10,7 @@ QA / Software Tester Intern
 🔵 Programming: TypeScript, JavaScript, tailwind
 🚀 Active Project: กำลังพัฒนาโปรเจกต์ Go2themoon
 
-Technical Skills
+## Technical Skills
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `JavaScript` `Pypthon (Basic)`  |
