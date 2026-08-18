@@ -6,9 +6,9 @@
 
 ## Current Focus & Learning
 ปัจจุบันกำลังเน้นพัฒนาทักษะและความเข้าใจในหัวข้อต่อไปนี้
-🟢 Backend & API: Node.js, JSON, API Testing
-🔵 Programming: TypeScript, JavaScript, tailwind
-🚀 Active Project: กำลังพัฒนาโปรเจกต์ Go2themoon
+*🟢 **Backend & API: Node.js, JSON, API Testing
+*🔵 **Programming: TypeScript, JavaScript, tailwind
+*🚀 **Active Project: กำลังพัฒนาโปรเจกต์ Go2themoon
 
 ## Technical Skills
 | Category | Technologies & Tools |
